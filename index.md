@@ -9,3 +9,5 @@ Columbia University 2021
 ## Open Source Project
 ### [QuickQuestions](https://github.com/karimerobles/quickquestions)
 QuickQuestions: iOS Quiz App for COMS W6995-F2020
+- Uses an open source database to make questions highly customizable
+- [Project proposal](https://github.com/ColumbiaOSS/project-proposals-f2020/blob/master/flp2111.md)
