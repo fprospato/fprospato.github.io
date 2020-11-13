@@ -1,6 +1,6 @@
 # Francesco Prospato
 
-Columbia University 2021
+Columbia University 2021 (SEAS)
 
 ## Links
 - [Resume](https://github.com/fprospato/fprospato.github.io/blob/main/Resume%20-%20Github.pdf)
